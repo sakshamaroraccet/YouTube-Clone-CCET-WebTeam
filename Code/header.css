@@ -43,6 +43,7 @@
 }
 
 .menu {
+    cursor: pointer;
     height: 30px;
     margin-right: 20px;
     margin-left: 20px;
@@ -126,6 +127,7 @@
     display: block;
     transition: 0.3s;
 }
+
 
 .movie {
     height: 30px;
