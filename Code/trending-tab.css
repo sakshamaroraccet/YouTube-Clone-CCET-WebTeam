@@ -41,7 +41,26 @@
     transition: 0.2s;
 }
 
+.explore3 {
+    margin-top: 5px;
+    height: 30px;
+    padding-left: 13px;
+    padding-right: 13px;
+    border: none;
+    border-radius: 9px;
+    font-size: 15px;
+    color: black;
+    background-color: rgb(242,242,242);
+    cursor: pointer;
+}
+
+.explore3:hover {
+    background-color: rgb(190, 190, 190);
+    transition: 0.2s;
+}
+
 .right-expand {
+    display: flex;
     cursor: pointer;
     height: 30px;
     width: 30px;
